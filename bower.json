@@ -5,7 +5,7 @@
   "main": "page.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/visionmedia/page.js"
+    "url": "https://github.com/banderso-n/page.js.git"
   },
   "ignore": [
     ".gitignore",
